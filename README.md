@@ -4,7 +4,7 @@
 
 DevOps Prototype
 * GUTEN TAG Nadia
-wie gehts
+wie gehts dir
 * Understanding DevOps by doing it :-)
 GGGG
 
